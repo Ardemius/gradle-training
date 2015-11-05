@@ -1,0 +1,45 @@
+= Gradle training
+:toc:
+:toclevels: 3
+:toc-placement: preamble
+:lb: pass:[<br> +]
+:imagesdir: ./images
+
+By Thomas SCHWENDER (Softeam StarTech Java)
+
+== Overview
+
+* The might of Ruby!
+* Scripting AND convention over configuration
+* complete Ant integration
+
+== Configuration
+
+Environment variables:
+
+* GRADLE_HOME = C:\tools\Gradle-2.0
+* GRADLE_USER_HOME = C:\tools\Gradle-2.0 +
+TIP: avoid profil issues by setting this variable OUT of your profile folder (`%USERPROFILE%`, or `C:\Users\USERNAME` in Windows)
+
+gradle.properties in `GRADLE_USER_HOME/.gradle` or in the project folder:
+
+* for the proxy declaration
+* for the selection of the Java version used by Gradle
+
+=== Bridge with Maven
+
+* Using a Nexus repository
+* Using a Maven Local repository
+
+== Using Ant in Gradle
+
+Speak of the "asPath" for the classpath definition of the ant.taskdef
+
+== Eclipse plugin
+
+== Java plugin
+
+=== Build Lifecycle
+
+
+
