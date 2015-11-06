@@ -12,13 +12,17 @@ By Thomas SCHWENDER (Softeam StarTech Java)
 * The might of Ruby!
 * Scripting AND convention over configuration
 * complete Ant integration
+* The official doc is good, use it!
+
+TIP: use the https://docs.gradle.org/current/userguide//userguide_single.html[*single page* user page], to enable an effective search feature
 
 == Configuration
 
 Environment variables:
 
 * GRADLE_HOME = C:\tools\Gradle-2.0
-* GRADLE_USER_HOME = C:\tools\Gradle-2.0 +
+* GRADLE_USER_HOME = C:\tools\Gradle-2.0
+
 TIP: avoid profil issues by setting this variable OUT of your profile folder (`%USERPROFILE%`, or `C:\Users\USERNAME` in Windows)
 
 gradle.properties in `GRADLE_USER_HOME/.gradle` or in the project folder:
