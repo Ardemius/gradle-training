@@ -12,6 +12,7 @@ By Thomas SCHWENDER (Softeam StarTech Java)
 * The might of Ruby!
 * Scripting AND convention over configuration
 * complete Ant integration
+* possibility to use a Maven repo
 * The official doc is good, use it!
 
 TIP: use the https://docs.gradle.org/current/userguide//userguide_single.html[*single page* user page], to enable an effective search feature
