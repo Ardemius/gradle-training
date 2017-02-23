@@ -9,7 +9,7 @@ By Thomas SCHWENDER (Softeam StarTech Java)
 
 == Overview
 
-* The might of Ruby!
+* The might of Groovy!
 * Scripting AND convention over configuration
 * complete Ant integration
 * possibility to use a Maven repo
